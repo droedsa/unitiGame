@@ -1,1 +1,1 @@
-# Doodle Jump ПД-32 Власенко Иван
+# Doodle Jump PD-32 Vlasenko Ivan
